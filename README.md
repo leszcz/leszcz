@@ -51,4 +51,5 @@ Oprócz kariery zawodowej, jestem także raperem. Sztuka i muzyka to moja pasja,
 
 Zapraszam do kontaktu, jeżeli chciałbyś porozmawiać na temat technologii, współpracy lub po prostu muzyki! 🎶
 Zachęcam też do wsparcia używając widgetu płatności:
-<iframe src="https://cssetti.pl/widget/v1/103" style="width: 240px; height: 320px; border: none; padding: 0, margin: 0"></iframe>
+
+https://cssetti.pl/widget/v1/103
